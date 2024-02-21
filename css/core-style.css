@@ -501,7 +501,6 @@ img {
 .dropdown-menu.show {
     border: none;
     padding: 15px 0;
-    box-shadow: 0 5px 40px rgba(0, 0, 0, 0.15);
     margin-top: 15px;
 }
 
